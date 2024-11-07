@@ -1,0 +1,17 @@
+
+*.o
+*.out
+*.exe
+
+
+*.tmp
+*.log
+
+
+build/
+bin/
+
+
+*.swp
+*.swo
+*.DS_Store
